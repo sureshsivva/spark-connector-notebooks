@@ -2,4 +2,4 @@ This `gateway_connection` directory is for listing the basic settings needed to 
 
 This directory has a sample Pyspark notebook and Pyspark cli command.
 
-This Blog has more details on this Gateway connection and Spark user class path first settings.
+[This Blog has more details on Azure CosmosDB Gateway connection mode and Spark user class path first settings.]()
